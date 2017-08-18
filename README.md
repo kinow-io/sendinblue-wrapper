@@ -6,7 +6,7 @@ The package supports use with [Laravel][1] 5 providing a `SendinblueWrapper` fac
 
 ### First method
 
-Just run `composer require floriankaemo/sendinblue`
+Just run `composer require floriankaemo/sendinblue-wrapper`
 
 ### Second method
 
@@ -15,7 +15,7 @@ In order to install, add the following to your `composer.json` file within the `
 ```js
 "require": {
     …
-    "floriankaemo/sendinblue": "^2.0"
+    "floriankaemo/sendinblue-wrapper": "^2.0"
     …
 }
 ```

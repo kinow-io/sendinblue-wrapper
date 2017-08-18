@@ -1,0 +1,31 @@
+{
+    "name": "floriankaemo/sendinblue",
+    "description": "A Laravel 5 wrapper for the SendInBlue API PHP class (as provided by SendInBlue)",
+    "keywords": [
+        "laravel",
+        "sendinblue"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas Van Steenwinckel",
+            "email": "tom@vansteen.me"
+        },
+        {
+            "name": "Florian Bouchet",
+            "email": "florian@kinow.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "illuminate/support": "~5.0",
+        "illuminate/config": "~5.0",
+        "mailin-api/mailin-api-php": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Floriankaemo\\SendinblueWrapper\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

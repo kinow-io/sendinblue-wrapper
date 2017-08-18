@@ -1,5 +1,5 @@
 {
-    "name": "floriankaemo/sendinblue",
+    "name": "floriankaemo/sendinblue-wrapper",
     "description": "A Laravel 5 wrapper for the SendInBlue API PHP class (as provided by SendInBlue)",
     "keywords": [
         "laravel",

@@ -15,7 +15,7 @@ In order to install, add the following to your `composer.json` file within the `
 ```js
 "require": {
     …
-    "floriankaemo/sendinblue-wrapper": "^2.0"
+    "floriankaemo/sendinblue-wrapper": "dev-master"
     …
 }
 ```

@@ -1,5 +1,5 @@
 {
-    "name": "floriankaemo/sendinblue-wrapper",
+    "name": "kinow-io/sendinblue-wrapper",
     "description": "A Laravel 5 wrapper for the SendInBlue API PHP class (as provided by SendInBlue)",
     "keywords": [
         "laravel",
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Floriankaemo\\SendinblueWrapper\\": "src/"
+            "Kinow\\SendinblueWrapper\\": "src/"
         }
     },
     "minimum-stability": "stable"

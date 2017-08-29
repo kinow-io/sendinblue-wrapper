@@ -6,7 +6,7 @@ The package supports use with [Laravel][1] 5 providing a `SendinblueWrapper` fac
 
 ### First method
 
-Just run `composer require floriankaemo/sendinblue-wrapper`
+Just run `composer require kinow-io/sendinblue-wrapper`
 
 ### Second method
 
@@ -15,7 +15,7 @@ In order to install, add the following to your `composer.json` file within the `
 ```js
 "require": {
     …
-    "floriankaemo/sendinblue-wrapper": "dev-master"
+    "kinow-io/sendinblue-wrapper": "dev-master"
     …
 }
 ```
@@ -26,7 +26,7 @@ Add the following to the `providers` array:
 ```php
 'providers' => [
     …
-    \Floriankaemo\Sendinblue\SendinblueServiceProvider::class,
+    \Kinow\Sendinblue\SendinblueServiceProvider::class,
 ],
 ```
 
@@ -35,7 +35,7 @@ Furthermore, add the following the the `aliases` array:
 ```php
 'aliases' => [
     …
-    'SendinblueWrapper' => 'Floriankaemo\Sendinblue\Facades\SendinBlueWrapper',
+    'SendinblueWrapper' => 'Kinow\Sendinblue\Facades\SendinBlueWrapper',
 ],
 ```
 

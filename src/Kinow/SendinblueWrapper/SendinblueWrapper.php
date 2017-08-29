@@ -1,4 +1,4 @@
-<?php namespace Floriankaemo\SendinblueWrapper;
+<?php namespace Kinow\SendinblueWrapper;
 
 use Sendinblue\Mailin;
 

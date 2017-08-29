@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Floriankaemo\\SendinblueWrapper\\": "src/"
+            "Kinow\\SendinblueWrapper\\": "src/"
         }
     },
     "minimum-stability": "stable"
